@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: AutoDude 1.0
+## Version: 1.0
+## Notes: Addon to Automize easy tasks
+## Author: huljo1
+## DefaultState: enabled
+## SavedVariables: CoreDB
+
+Core.lua
